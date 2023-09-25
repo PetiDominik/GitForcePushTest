@@ -7,7 +7,7 @@ public class GitForcePushTest {
         if (true) {
             System.out.println("Asd");
             System.out.println("még asd");
-            System.out.println("");
+            System.out.println("Valami");
             System.out.println("c");
         }
         
