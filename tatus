@@ -1,0 +1,66 @@
+[33mcommit 9bb3d13cf3a4f03f8bdc0e22f5a9593e942abd1d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: ae43cdc 1517bd5
+Author: PetiDominik <petidomi05@gmail.com>
+Date:   Mon Sep 25 14:50:34 2023 +0200
+
+    Merge branch 'main' of https://github.com/PetiDominik/GitForcePushTest
+
+[33mcommit ae43cdcdd33e167e2412656ec1e113a0cc417caa[m
+Merge: 554f2d1 2e933a4
+Author: PetiDominik <petidomi05@gmail.com>
+Date:   Mon Sep 25 14:49:37 2023 +0200
+
+    Merge branch 'main' of https://github.com/PetiDominik/GitForcePushTest
+
+[33mcommit 1517bd50abdbad7e83c0c52a192c79a5213b6c8a[m
+Merge: 554f2d1 2e933a4
+Author: PetiDominik <petidomi05@gmail.com>
+Date:   Mon Sep 25 14:49:37 2023 +0200
+
+    Merge branch 'main' of https://github.com/PetiDominik/GitForcePushTest
+
+[33mcommit 554f2d136be97d1f378b4e93aefa973fd626a936[m
+Merge: a257146 4f2243d
+Author: PetiDominik <petidomi05@gmail.com>
+Date:   Mon Sep 25 14:48:10 2023 +0200
+
+    Merge branch 'main' of https://github.com/PetiDominik/GitForcePushTest
+
+[33mcommit 2e933a413f4aec5b38015876a4dd8c3e01c902d5[m
+Merge: a257146 4f2243d
+Author: PetiDominik <petidomi05@gmail.com>
+Date:   Mon Sep 25 14:48:10 2023 +0200
+
+    Merge branch 'main' of https://github.com/PetiDominik/GitForcePushTest
+
+[33mcommit a2571468e4a3e2895a068150aa190f1994bf21cc[m
+Merge: d41e80d ad4e99f
+Author: PetiDominik <petidomi05@gmail.com>
+Date:   Mon Sep 25 14:39:25 2023 +0200
+
+    merge
+
+[33mcommit 4f2243de3661b0f9d74b5a1c7011680f1aa7f1cc[m
+Merge: d41e80d ad4e99f
+Author: PetiDominik <petidomi05@gmail.com>
+Date:   Mon Sep 25 14:39:25 2023 +0200
+
+    merge
+
+[33mcommit d41e80d78fafda10926e502b1455d2ed1f75d5e3[m
+Author: PetiDominik <petidomi05@gmail.com>
+Date:   Mon Sep 25 14:34:47 2023 +0200
+
+    asd output hozzáadva
+
+[33mcommit ad4e99f3c61f7adb6878a30c074935db106be10d[m
+Author: PetiDominik <petidomi05@gmail.com>
+Date:   Mon Sep 25 14:34:47 2023 +0200
+
+    asd output hozzáadva
+
+[33mcommit 877f4e7be32bc44009e45ffaf5f47599c3fa0ff1[m
+Author: PetiDominik <petidomi05@gmail.com>
+Date:   Mon Sep 25 14:28:28 2023 +0200
+
+    alap ciklus 1..10 kiír

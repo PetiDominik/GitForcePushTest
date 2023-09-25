@@ -8,7 +8,7 @@ public class GitForcePushTest {
             System.out.println("Asd");
             System.out.println("még asd");
             System.out.println("");
-            System.out.println("asdfsladfkjssléafk");
+            System.out.println("c");
         }
         
  
